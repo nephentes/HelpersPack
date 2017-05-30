@@ -14,16 +14,9 @@ namespace HelpersPack
         {
             var retVal = new List<string>();
 
-            try
+            foreach (var oneInnerException in EnumInnerExceptions(exception))
             {
-                foreach (var oneInnerException in EnumInnerExceptions(exception))
-                {
-                    retVal.Add(string.Format("{0} >> {1}", oneInnerException.Message, oneInnerException.StackTrace));
-                }
-            }
-            catch (Exception ex)
-            {
-                // hi hey hello!
+                retVal.Add(string.Format("{0} >> {1}", oneInnerException.Message, oneInnerException.StackTrace));
             }
 
             return retVal;
