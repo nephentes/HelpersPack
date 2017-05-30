@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpersPack", "HelpersPack\HelpersPack.csproj", "{943A54BE-8D57-40B2-9D5B-5C788AA3B1EE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpersPack", "HelpersPack\HelpersPack.csproj", "{F7FB6837-2C77-4F4A-B0C4-35E7E7BA5ABF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{943A54BE-8D57-40B2-9D5B-5C788AA3B1EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{943A54BE-8D57-40B2-9D5B-5C788AA3B1EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{943A54BE-8D57-40B2-9D5B-5C788AA3B1EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{943A54BE-8D57-40B2-9D5B-5C788AA3B1EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7FB6837-2C77-4F4A-B0C4-35E7E7BA5ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7FB6837-2C77-4F4A-B0C4-35E7E7BA5ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7FB6837-2C77-4F4A-B0C4-35E7E7BA5ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7FB6837-2C77-4F4A-B0C4-35E7E7BA5ABF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
